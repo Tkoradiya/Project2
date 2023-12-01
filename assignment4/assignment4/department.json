@@ -1,0 +1,20 @@
+{"_id":{"$oid":"65669f30d1f693e3aef2fcb3"},"dept_id":1,"dept_name":"mathematics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcb4"},"dept_id":2,"dept_name":"analysis"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcb5"},"dept_id":3,"dept_name":"computer graphics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcb6"},"dept_id":4,"dept_name":"cyber security"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcb7"},"dept_id":5,"dept_name":"physics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcb8"},"dept_id":6,"dept_name":"mathematics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcb9"},"dept_id":7,"dept_name":"analysis"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcba"},"dept_id":8,"dept_name":"computer graphics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcbb"},"dept_id":9,"dept_name":"cyber security"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcbc"},"dept_id":10,"dept_name":"physics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcbd"},"dept_id":11,"dept_name":"mathematics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcbe"},"dept_id":12,"dept_name":"analysis"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcbf"},"dept_id":13,"dept_name":"computer graphics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcc0"},"dept_id":14,"dept_name":"cyber security"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcc1"},"dept_id":15,"dept_name":"physics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcc2"},"dept_id":16,"dept_name":"mathematics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcc3"},"dept_id":17,"dept_name":"analysis"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcc4"},"dept_id":18,"dept_name":"computer graphics"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcc5"},"dept_id":19,"dept_name":"cyber security"}
+{"_id":{"$oid":"65669f30d1f693e3aef2fcc6"},"dept_id":20,"dept_name":"physics"}
