@@ -1,0 +1,8 @@
+
+ -------------------Create a basic Node + Express application that let's you create, display, modify and delete at least two of the tables. One of the tables can be the users table. No need to have a polished interface, and you can use the code created in class as a starting point, and/or the code you created for Project 1--------------------------------------------
+ please check following url for the nodejs+mongodb
+
+ i have implemented two module with crud operation.
+
+https://github.com/Tkoradiya/NodejsMongo/tree/master
+
